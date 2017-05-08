@@ -1,0 +1,9 @@
+Building PoisonIvyCoin
+
+See doc/readme-qt.rst for instructions on building PoisonIvyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PoisonIvyCoin.
+
+See doc/build-*.txt for instructions on building poisonivycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PoisonIvyCoin.
